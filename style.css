@@ -217,7 +217,7 @@ a:focus {
 /* Shorthand grid-area: grid-row-start / grid-column-start / grid-row-end / grid-column-end */
 
 .pos-1 {
-	grid-area: 19 / 1 / 38 / 10;
+	grid-area: 14 / 1 / 33 / 10;
 }
 
 .pos-2 {
@@ -241,11 +241,11 @@ a:focus {
 }
 
 .pos-7 {
-	grid-area: 20 / 20 / 50 / 30;
+	grid-area: 15 / 13 / 45 / 33;
 }
 
 .pos-8 {
-	grid-area: 25 / 9 / 40 / 19;
+	grid-area: 27 / 12 / 45 / 22;
 }
 
 .pos-9 {
